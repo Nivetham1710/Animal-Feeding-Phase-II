@@ -1,6 +1,7 @@
 # Animal-Feeding-Phase-II
 
 ## Aim:
+To develop Animal feeding game-Phase-2 using unity.
 
 ## Algorithm:
 ### Random Animal Stampede
@@ -21,11 +22,9 @@
 ## Program:
 ## SpawnManager
 ~~~
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class SpawnManager : MonoBehaviour
 {
     public GameObject[] animalPrefabs;
@@ -66,13 +65,10 @@ public class DetectCollider : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-
     }
-
     // Update is called once per frame
     void Update()
     {
-
     }
     private void OnTriggerEnter(Collider other)
     {
@@ -81,10 +77,8 @@ public class DetectCollider : MonoBehaviour
     }
 }
 ~~~
-
 ## Output:
 ![pp](https://github.com/Nivetham1710/Animal-Feeding-Phase-II/assets/94155183/8624754d-a0c3-478a-9247-76d68176e9b5)
-
 
 ## Result:
 Animal feeding game-Phase-2 using unity is developed successfully.
