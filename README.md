@@ -83,6 +83,7 @@ public class DetectCollider : MonoBehaviour
 ~~~
 
 ## Output:
+![pp](https://github.com/Nivetham1710/Animal-Feeding-Phase-II/assets/94155183/8624754d-a0c3-478a-9247-76d68176e9b5)
 
 
 ## Result:
